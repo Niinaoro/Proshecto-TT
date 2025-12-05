@@ -1,0 +1,13 @@
+img{
+    display: inline-block;
+    justify-content: space-around;
+    align-content: center;
+    padding: 10px;
+    width: 300px;
+    height: 150px;
+    border: 5px solid #000000;
+    background: #000000;
+}
+body {
+  background: linear-gradient(circle, #800080, #000000);
+}
